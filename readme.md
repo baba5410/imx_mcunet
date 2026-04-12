@@ -1,0 +1,1 @@
+此项目是imx6ull 一直mcunet的项目，使用git进行版本管理
