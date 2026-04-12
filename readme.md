@@ -1,1 +1,2 @@
-此项目是imx6ull 一直mcunet的项目，使用git进行版本管理
+1、项目分为驱动和英语两部分
+2、开发环境为imx6ull开发板 arm-linux-gnueabihf 4.9.4  qt 5.12.10  cmake
