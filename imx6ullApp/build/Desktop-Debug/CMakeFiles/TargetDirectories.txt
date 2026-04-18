@@ -1,0 +1,7 @@
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/src/app/CMakeFiles/imx6ullqt.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/src/app/CMakeFiles/edit_cache.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/src/app/CMakeFiles/rebuild_cache.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/src/app/CMakeFiles/imx6ullqt_autogen_timestamp_deps.dir
+/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/Desktop-Debug/src/app/CMakeFiles/imx6ullqt_autogen.dir

@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/src/app/imx6ullqt_autogen",
+	"CMAKE_BINARY_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/src/app",
+	"CMAKE_SOURCE_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/src/app/imx6ullqt_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/resources/fonts/wqy-zenhei.ttc"
+	],
+	"LOCK_FILE" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/src/app/CMakeFiles/imx6ullqt_autogen.dir/AutoRcc_main_7BV4YJK25R_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "main" ],
+	"OUTPUT_CHECKSUM" : "7BV4YJK25R",
+	"OUTPUT_NAME" : "qrc_main.cpp",
+	"RCC_EXECUTABLE" : "/home/duan/Duan/imx6ull/qt/libsource/qt5-dev/arm-qt-5.12/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/build/src/app/CMakeFiles/imx6ullqt_autogen.dir/AutoRcc_main_7BV4YJK25R_Used.txt",
+	"SOURCE" : "/home/duan/Duan/imx6ull/linux/imxmcunet/imx_mcunet/imx6ullApp/resources/main.qrc",
+	"VERBOSITY" : 0
+}
