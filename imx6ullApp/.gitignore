@@ -1,0 +1,22 @@
+# 忽略所有构建目录
+build/
+bin/
+obj/
+
+# 忽略自动生成的 Qt 文件
+*_autogen/
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# 忽略二进制程序和库
+imx6ullApp
+*.so
+*.a
+*.o
+
+# 忽略环境变量和本地设置
+.vscode/
+*.user
+compile_commands.json
