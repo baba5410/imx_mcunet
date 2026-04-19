@@ -1,0 +1,17 @@
+CompileFlags:
+  # 1. 告诉 clangd 允许调用你的交叉编译器来获取内置的宏和系统头文件路径
+  QueryDriver: 
+    - "/home/duan/Duan/tool/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++"
+
+  # 2. 强制添加一些缺失的系统路径（如果 QueryDriver 没找全）
+  Add: [
+    "-target", "arm-linux-gnueabihf",
+    "-mfloat-abi=hard",
+    "--sysroot=/home/duan/Duan/tool/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc",
+    "-isystem", "/home/duan/Duan/imx6ull/qt/libsource/qt5-dev/arm-qt-5.12/include",
+    "-isystem", "/home/duan/Duan/imx6ull/qt/libsource/qt5-dev/arm-qt-5.12/include/QtWidgets",
+    "-isystem", "/home/duan/Duan/imx6ull/qt/libsource/qt5-dev/arm-qt-5.12/include/QtGui",
+    "-isystem", "/home/duan/Duan/imx6ull/qt/libsource/qt5-dev/arm-qt-5.12/include/QtCore"
+    "-DQT_NO_RELAXED_CPP_TYPE_CHECKATION",
+    "-Wno-everything"
+  ]
