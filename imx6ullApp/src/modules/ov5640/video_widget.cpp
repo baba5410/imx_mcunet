@@ -33,7 +33,7 @@ VideoWidget::VideoWidget(const QString &device, QWidget *parent)
 
   connect(workerThread, &QThread::started, worker, &VideoWorker::process);
   connect(worker, &VideoWorker::frameReady, this, &VideoWidget::onFrameReady);
-  workerThread->start();
+  // workerThread->start();
 }
 
 VideoWidget::~VideoWidget() {
